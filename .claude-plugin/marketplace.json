@@ -9,8 +9,8 @@
     {
       "name": "cc-power-toolkit",
       "source": {
-        "type": "url",
-        "url": "https://github.com/wolfpackdev5/cc-power-toolkit-plugin.git"
+        "source": "github",
+        "repo": "wolfpackdev5/cc-power-toolkit-plugin"
       },
       "description": "Context monitoring, budget tracking, and smart session summarization for Claude Code power users.",
       "version": "1.0.0",
