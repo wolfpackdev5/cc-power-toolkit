@@ -12,8 +12,8 @@
         "source": "url",
         "url": "https://github.com/wolfpackdev5/cc-power-toolkit-plugin.git"
       },
-      "description": "Context monitoring, budget tracking, and smart session summarization for Claude Code power users.",
-      "version": "1.0.0",
+      "description": "Auto-compact handoff notes, context monitoring, budget tracking, and smart session summarization for Claude Code power users.",
+      "version": "1.2.0",
       "category": "productivity",
       "tags": ["context", "tokens", "budget", "session-management", "productivity"]
     }
