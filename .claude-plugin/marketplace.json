@@ -15,7 +15,13 @@
       "description": "Prompt Coach — real-time, local heuristics that review every prompt for cost and result-quality issues before it's sent.",
       "version": "2.0.0",
       "category": "productivity",
-      "tags": ["prompt", "cost", "optimization", "quality", "productivity"]
+      "tags": [
+        "prompt",
+        "cost",
+        "optimization",
+        "quality",
+        "productivity"
+      ]
     }
   ]
 }
