@@ -51,7 +51,7 @@ A clean prompt passes silently — no noise.
 
 This plugin is distributed via a private marketplace for paying customers.
 
-1. Purchase at [gumroad link] — you'll get access to the plugin repository.
+1. Purchase at [[gumroad link]](https://wolfpackfitness2.gumroad.com/l/cc-power-toolkit-plugin?_gl=1*apcuah*_ga*MTcxMzY0MTg1MS4xNzgxMDMwNTc3*_ga_6LJN6D94N6*czE3ODEwMzM3MjckbzIkZzEkdDE3ODEwMzQ5MzQkajQ4JGwwJGgw) — you'll get access to the plugin repository.
 2. Add the marketplace, then install.
 
 ### Claude Code (CLI)
@@ -134,7 +134,7 @@ earliest point a plugin can intervene, and it's where the cost decision is made.
 
 $29 one-time. No subscription. Free updates.
 
-[Buy now →](your-gumroad-link)
+[Buy now →]([your-gumroad-link](https://wolfpackfitness2.gumroad.com/l/cc-power-toolkit-plugin?_gl=1*apcuah*_ga*MTcxMzY0MTg1MS4xNzgxMDMwNTc3*_ga_6LJN6D94N6*czE3ODEwMzM3MjckbzIkZzEkdDE3ODEwMzQ5MzQkajQ4JGwwJGgw))
 
 ---
 
