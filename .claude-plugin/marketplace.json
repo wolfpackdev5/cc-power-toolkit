@@ -12,10 +12,10 @@
         "source": "url",
         "url": "https://github.com/wolfpackdev5/cc-power-toolkit-plugin.git"
       },
-      "description": "Auto-compact handoff notes, context monitoring, budget tracking, and smart session summarization for Claude Code power users.",
-      "version": "1.2.0",
+      "description": "Prompt Coach — real-time, local heuristics that review every prompt for cost and result-quality issues before it's sent.",
+      "version": "2.0.0",
       "category": "productivity",
-      "tags": ["context", "tokens", "budget", "session-management", "productivity"]
+      "tags": ["prompt", "cost", "optimization", "quality", "productivity"]
     }
   ]
 }
